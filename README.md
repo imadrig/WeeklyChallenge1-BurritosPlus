@@ -10,15 +10,15 @@ Each burrito will contain up to 9 randomly selected ingredients and the price fo
 
 INPUT: ingredient options
 
-OUTPUT: 25 burritos with randomly generated ingredient options
+OUTPUT: 25 burritos with randomly generated ingredient options, price of each burrito
 
 Process: 
 
 BEGIN
+	
 	Enter a random generator
 
 	Enter ingredient lists using arrays
-	
 	
 	Use a FOR loop to generate the order of 25 burritos
 		- inside the loop the ingredients will be randomly generated
